@@ -1,6 +1,7 @@
 ## Hi there 👋
+#### I'm a Full-Stack Developer working in Texas.
 
-## 🔭 I’m currently working on my portfolio, Ping-Catcher.com project for school, and a React.js app that can play Pexels images and play Spotify at the same time. I'd like to hang a Flat Screen TV on my wall and play live photos. 
+## 🔭 I’m currently working on my portfolio, and Ping-Catcher.com project for school.
 
 <p float=center>
 <img src="./html5-brands.svg" width=5%  > 
@@ -13,6 +14,7 @@
 </p>
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=eric-santos)](https://github.com/eric-santos/github-contribution-stats/)
+
 
 ## 🌱 I’m currently learning Full Stack Development with Lambda School.
 
