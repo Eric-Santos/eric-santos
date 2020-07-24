@@ -1,7 +1,6 @@
-<p align="center">Hi there 👋</p> 
+<h2 align="center">Hi there 👋</h2> 
 
-<p align="center">🔭 I’m currently working on my portfolio, and Ping-Catcher.com project for school.</p> 
-
+<h2 align="center">🔭 I’m currently working on my portfolio, and Ping-Catcher.com project for school.</h2>
 
 <h2 align="center">⚡ Technologies</h2> 
 
