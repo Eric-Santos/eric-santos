@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## 🔭 I’m currently working on a React.js app that can play Pexels images and play Spotify at the same time. I'd like to hang a Flat Screen TV on my wall and play live photos. 
+
 <p float=center>
 <img src="html5-brands.svg" width=5%  > 
 <img src="less-brands.svg" width=10% >
@@ -11,8 +13,6 @@
 </p>
 
 ![Eric's github stats](https://github-readme-stats.vercel.app/api?username=eric-santos)
-
-## 🔭 I’m currently working on a React.js app that can play Pexels images and play Spotify at the same time. I'd like to hang a Flat Screen TV on my wall and play live photos. 
 
 ## 🌱 I’m currently learning Full Stack Development with Lambda School.
 
