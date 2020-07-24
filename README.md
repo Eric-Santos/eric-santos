@@ -1,5 +1,4 @@
 ## Hi there 👋
-#### I'm a Full-Stack Developer working in Texas.
 
 ## 🔭 I’m currently working on my portfolio, and Ping-Catcher.com project for school.
 
