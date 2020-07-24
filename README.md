@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-![very good|25x19](react-brands.svg)
+$~$<img src="html5-brands.svg" width=9%  >
+$~~$<img src="less-brands.svg" width=15% >
+$~~$<img src="js-square-brands.svg" width=10% >
+$~~$<img src="react-brands.svg" width=10% >
+$~~$<img src="node-brands.svg" width=15% >
+$~~$<img src="database-solid.svg" width=10% >
+$~~$<img src="markdown-brands.svg" width=15% >
 
 ## 🔭 I’m currently working on a React.js app that can play Pexels images and play Spotify at the same time. I'd like to hang a Flat Screen TV on my wall and play live photos. 
 
