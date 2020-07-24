@@ -12,7 +12,7 @@
 <img src="markdown-brands.svg" width=5% >
 </p>
 
-![Eric's github stats](https://github-readme-stats.vercel.app/api?username=eric-santos)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=eric-santos)](https://github.com/eric-santos/github-contribution-stats/)
 
 ## 🌱 I’m currently learning Full Stack Development with Lambda School.
 
