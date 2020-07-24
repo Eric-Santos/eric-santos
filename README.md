@@ -20,7 +20,7 @@
 
 ## 🤔 I’m looking for help with creating an Open Source project or Start Up business.
 
-## 💬 Ask me about Astrology or React.js.
+## 💬 Ask me about Astronomy or React.js.
 
 ## 😄 Pronouns: Him, He.
 
