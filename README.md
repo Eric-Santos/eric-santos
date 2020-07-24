@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p float=left>
+<p float=center>
 <img src="html5-brands.svg" width=5%  > 
 <img src="less-brands.svg" width=10% >
 <img src="js-square-brands.svg" width=5% >
