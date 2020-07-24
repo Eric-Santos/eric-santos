@@ -20,18 +20,21 @@
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=eric-santos)](https://github.com/eric-santos/github-contribution-stats/)
 
 
-## 🌱 I’m currently learning Full Stack Development with Lambda School.
+<h2 align="center">🌱 I’m currently learning Full Stack Development with Lambda School.</h2>
 
-## 👯 I’m looking to collaborate on anything to do with Astronomy.
+<h2 align="center">👯 I’m looking to collaborate on anything to do with Astronomy.</h2>
 
-## 🤔 I’m looking for help with creating an Open Source project or Start Up business.
 
-## 💬 Ask me about Astronomy or React.js.
+<h2 align="center">🤔 I’m looking for help with creating an Open Source project or Start Up business.
+</h2>
 
-## 😄 Pronouns: Him, He.
+<h2 align="center">💬 Ask me about Astronomy or React.js.
+</h2>
 
-## ⚡ Fun fact: I can go about 10 wins and 0 loses playing Pool.
+<h2 align="center">⚡ Fun fact:</h2> 
+<p align="center"> I can go about 10 wins and 0 loses playing Pool.</p>
 
+<h2  align="center">📫 Reach me on</h2>
 <p align="center">
 <a target="_blank"href="https://www.linkedin.com/in/ericsantos01/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:eric.santos.dev?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
