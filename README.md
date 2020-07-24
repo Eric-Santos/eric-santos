@@ -10,7 +10,7 @@
 <img src="markdown-brands.svg" width=5% >
 </p>
 
-[![Eric's github stats](https://github-readme-stats.vercel.app/api?username=eric-santos)](https://github.com/anuraghazra/github-readme-stats)
+[![Eric's github stats](https://github-readme-stats.vercel.app/api?username=eric-santos)]
 
 ## 🔭 I’m currently working on a React.js app that can play Pexels images and play Spotify at the same time. I'd like to hang a Flat Screen TV on my wall and play live photos. 
 
