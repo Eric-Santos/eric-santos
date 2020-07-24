@@ -2,10 +2,10 @@
 
 <p float=left>
 <img src="html5-brands.svg" width=5%  > 
-<img src="less-brands.svg" width=5% >
+<img src="less-brands.svg" width=10% >
 <img src="js-square-brands.svg" width=5% >
 <img src="react-brands.svg" width=5% >
-<img src="node-brands.svg" width=5% >
+<img src="node-brands.svg" width=10% >
 <img src="database-solid.svg" width=5% >
 <img src="markdown-brands.svg" width=5% >
 </p>
