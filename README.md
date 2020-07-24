@@ -2,6 +2,8 @@
 
 ## 🔭 I’m currently working on my portfolio, and Ping-Catcher.com project for school.
 
+
+## ⚡ Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -30,7 +32,14 @@
 
 ## ⚡ Fun fact: I can go about 10 wins and 0 loses playing Pool.
 
-## 📫 How to reach me: Eric355402@yahoo.com or 915-534-1154
+## 📫 How to reach me: 
+<p align="center">
+<a target="_blank"href="https://www.linkedin.com/in/ericsantos01/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:eric.santos.dev?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+
 
 <!--
 **eric-santos/eric-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
