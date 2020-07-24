@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 🔭 I’m currently working on a React.js app that can play Pexels images and play Spotify at the same time. I'd like to hang a Flat Screen TV on my wall and play live photos. 
+## 🔭 I’m currently working on my portfolio, Ping-Catcher.com project for school, and a React.js app that can play Pexels images and play Spotify at the same time. I'd like to hang a Flat Screen TV on my wall and play live photos. 
 
 <p float=center>
 <img src="./html5-brands.svg" width=5%  > 
