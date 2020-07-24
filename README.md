@@ -10,6 +10,8 @@
 <img src="markdown-brands.svg" width=5% >
 </p>
 
+[![Eric's github stats](https://github-readme-stats.vercel.app/api?username=eric-santos)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🔭 I’m currently working on a React.js app that can play Pexels images and play Spotify at the same time. I'd like to hang a Flat Screen TV on my wall and play live photos. 
 
 ## 🌱 I’m currently learning Full Stack Development with Lambda School.
@@ -20,13 +22,11 @@
 
 ## 💬 Ask me about Astrology or React.js.
 
-## 📫 How to reach me: Eric355402@yahoo.com or 915-534-1154
-
 ## 😄 Pronouns: Him, He.
 
 ## ⚡ Fun fact: I can go about 10 wins and 0 loses playing Pool.
 
-[![Eric's github stats](https://github-readme-stats.vercel.app/api?username=eric-santos)](https://github.com/anuraghazra/github-readme-stats)
+## 📫 How to reach me: Eric355402@yahoo.com or 915-534-1154
 
 <!--
 **eric-santos/eric-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
