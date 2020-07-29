@@ -19,9 +19,6 @@
 </p>
 
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=eric-santos)](https://github.com/eric-santos/github-contribution-stats/)
-
-
 <h2 align="center">🌱 I’m currently learning Full Stack Development with Lambda School.</h2>
 
 <h2 align="center">👯 I’m looking to collaborate on anything to do with Astronomy.</h2>
@@ -42,7 +39,7 @@
 <a href="mailto:eric.santos.dev?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=eric-santos)](https://github.com/eric-santos/github-contribution-stats/)
 
 
 <!--
