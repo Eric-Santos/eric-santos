@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋</h2> 
 
-<h2 align="center">🔭 I’m currently working on my portfolio, and Ping-Catcher.com project for school.</h2>
+<h2 align="center">I have officially completed Lambda School as a Full Stack Developer!</h2>
 
 <h2 align="center">⚡ Technologies</h2> 
 
@@ -19,19 +19,14 @@
 </p>
 
 
-<h2 align="center">🌱 I’m currently learning Full Stack Development with Lambda School.</h2>
-
 <h2 align="center">👯 I’m looking to collaborate on anything to do with Astronomy.</h2>
 
 
-<h2 align="center">🤔 I’m looking for help with creating an Open Source project or Start Up business.
-</h2>
-
-<h2 align="center">💬 Ask me about Astronomy or React.js.
+<h2 align="center">🤔 I’m looking for help launching my career in Software Development
 </h2>
 
 <h2 align="center">⚡ Fun fact:</h2> 
-<p align="center"> I can go about 10 wins and 0 loses playing Pool.</p>
+<p align="center"> I've been a skateboarder for the past 16 years </p>
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
